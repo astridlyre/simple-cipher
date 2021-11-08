@@ -1,0 +1,17 @@
+{
+  "name": "javascript-simple-cipher",
+  "description": "A simple cipher exercise",
+  "author": "Erin Burton",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astridlyre/simple-cipher"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  },
+  "scripts": {
+    "test": "mocha --parallel"
+  }
+}
